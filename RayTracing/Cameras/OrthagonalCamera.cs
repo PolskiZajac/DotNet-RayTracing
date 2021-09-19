@@ -1,7 +1,5 @@
-﻿using System;
-
-using RayTracing.Types;
-
+﻿using RayTracing.Types;
+using System;
 
 namespace RayTracing.Cameras
 {

@@ -1,6 +1,5 @@
 ﻿using RayTracing.Types;
 
-
 namespace RayTracing.Cameras
 {
     public interface ICamera

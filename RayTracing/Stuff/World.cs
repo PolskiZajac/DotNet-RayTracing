@@ -1,9 +1,8 @@
-﻿using System.Drawing;
-using System.Collections.Generic;
-
+﻿using RayTracing.Lights;
+using RayTracing.Shapes;
 using RayTracing.Types;
-using RayTracing.Lights;
-
+using System.Collections.Generic;
+using System.Drawing;
 
 namespace RayTracing.Stuff
 {

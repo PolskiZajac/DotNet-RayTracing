@@ -1,9 +1,9 @@
 ﻿using RayTracing.Materials;
+using RayTracing.Types;
 
-
-namespace RayTracing.Types
+namespace RayTracing.Shapes
 {
-    abstract public class GeometricObject
+    public abstract class GeometricObject
     {
         public IMaterial Material { get; set; }
         public abstract bool HitTest(Ray ray, ref double distance, ref Vector3 normal);

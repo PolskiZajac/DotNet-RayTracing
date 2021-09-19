@@ -1,5 +1,5 @@
-﻿using RayTracing.Stuff;
-
+﻿using RayTracing.Shapes;
+using RayTracing.Stuff;
 
 namespace RayTracing.Types
 {
